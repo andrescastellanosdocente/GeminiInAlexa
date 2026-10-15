@@ -3,7 +3,7 @@
     "publishingInformation": {
       "locales": {
         "en-US": {
-          "name": "chat",
+          "name": "gemini",
           "summary": "Gemini in Alexa",
           "description": "Alexa skill that uses the Google AI Studio API to generate responses from the Gemini model",
           "examplePhrases": [
@@ -12,7 +12,7 @@
           "keywords": []
         },
         "en-GB": {
-          "name": "chat",
+          "name": "gemini",
           "summary": "Gemini in Alexa",
           "description": "Alexa skill that uses the Google AI Studio API to generate responses from the Gemini model",
           "examplePhrases": [
@@ -21,7 +21,7 @@
           "keywords": []
         },
         "en-CA": {
-          "name": "chat",
+          "name": "gemini",
           "summary": "Gemini in Alexa",
           "description": "Alexa skill that uses the Google AI Studio API to generate responses from the Gemini model",
           "examplePhrases": [
@@ -30,7 +30,7 @@
           "keywords": []
         },
         "en-IN": {
-          "name": "chat",
+          "name": "gemini",
           "summary": "Gemini in Alexa",
           "description": "Alexa skill that uses the Google AI Studio API to generate responses from the Gemini model",
           "examplePhrases": [
@@ -39,7 +39,7 @@
           "keywords": []
         },
         "en-AU": {
-          "name": "chat",
+          "name": "gemini",
           "summary": "Gemini in Alexa",
           "description": "Alexa skill that uses the Google AI Studio API to generate responses from the Gemini model",
           "examplePhrases": [
@@ -57,7 +57,7 @@
           "keywords": []
         },
         "es-MX": {
-          "name": "chat",
+          "name": "gemini",
           "summary": "Gemini en Alexa",
           "description": "Skill de Alexa que utiliza la API de Google AI Studio para generar respuestas desde el modelo Gemini",
           "examplePhrases": [
@@ -66,7 +66,7 @@
           "keywords": []
         },
         "es-US": {
-          "name": "chat",
+          "name": "gemini",
           "summary": "Gemini en Alexa",
           "description": "Skill de Alexa que utiliza la API de Google AI Studio para generar respuestas desde el modelo Gemini",
           "examplePhrases": [
@@ -75,7 +75,7 @@
           "keywords": []
         },
         "fr-FR": {
-          "name": "chat",
+          "name": "gemini",
           "summary": "Gemini dans Alexa",
           "description": "Skill Alexa qui utilise l'API Google AI Studio pour générer des réponses à partir du modèle Gemini",
           "examplePhrases": [
@@ -84,7 +84,7 @@
           "keywords": []
         },
         "fr-CA": {
-          "name": "chat",
+          "name": "gemini",
           "summary": "Gemini dans Alexa",
           "description": "Skill Alexa qui utilise l'API Google AI Studio pour générer des réponses à partir du modèle Gemini",
           "examplePhrases": [
@@ -93,7 +93,7 @@
           "keywords": []
         },
         "ja-JP": {
-          "name": "chat",
+          "name": "gemini",
           "summary": "Alexaの中のGemini",
           "description": "Google AI Studio APIを使用してGeminiモデルからの応答を生成するAlexaスキル",
           "examplePhrases": [
@@ -102,7 +102,7 @@
           "keywords": []
         },
         "de-DE": {
-          "name": "chat",
+          "name": "gemini",
           "summary": "Gemini in Alexa",
           "description": "Alexa-Skill, der die Google AI Studio-API verwendet, um Antworten vom Gemini-Modell zu generieren",
           "examplePhrases": [
@@ -111,7 +111,7 @@
           "keywords": []
         },
         "it-IT": {
-          "name": "chat",
+          "name": "gemini",
           "summary": "Gemini in Alexa",
           "description": "Skill di Alexa che utilizza l'API di Google AI Studio per generare risposte dal modello Gemini",
           "examplePhrases": [
@@ -120,7 +120,7 @@
           "keywords": []
         },
         "hi-IN": {
-          "name": "chat",
+          "name": "gemini",
           "summary": "Alexa में Gemini",
           "description": "Alexa कौशल जो Google AI Studio API का उपयोग करके Gemini मॉडल से प्रतिक्रियाएं उत्पन्न करता है",
           "examplePhrases": [
@@ -129,7 +129,7 @@
           "keywords": []
         },
         "pt-BR": {
-          "name": "chat",
+          "name": "gemini",
           "summary": "Gemini na Alexa",
           "description": "Skill Alexa que usa a API do Google AI Studio para gerar respostas a partir do modelo Gemini",
           "examplePhrases": [
